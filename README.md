@@ -14,7 +14,7 @@ Full-stack project with **Quarkus backend** and **React frontend**.
 
 ### 1️Clone the repo
 ```bash
-git clone https://github.com/your-username/oppexai.git
+git clone https://github.com/rishisni/OppexAI.git
 cd oppexai
 ```
 
